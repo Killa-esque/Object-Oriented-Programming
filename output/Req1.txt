@@ -1,0 +1,23 @@
+CT004_Nguyen Thanh Huy_0.68_4000000
+CT005_Tran Trung Nghia_5.89_3000000
+TV004_Nguyen Kim Thuy_32000
+TV005_Nguyen Thanh Ha_30000
+TV006_Tran Anh Dung_40000
+QL002_Pham Hong Duc_0.5_8000000_1000000
+CT009_Tran Dang Quoc Huy_1.68_2000000
+CT010_Nguyen Ngoc Huyen_2.27_2000000
+QL003_Nguyen Pham Minh Khoa_1.5_10000000_3000000
+TV001_Cao Dang Khoa_12000
+TV002_Tran Thanh Hung_25000
+TV003_Nguyen Phung Nguyen_10000
+TV007_Nguyen Thanh Huy_27000
+CT006_Do Thi Thu Phuong_8.24_4000000
+CT007_Nguyen Van Hau_0.74_6000000
+CT008_Lam Anh Huy_8.9_5000000
+TV008_Nguyen Van Dung_48000
+TV009_Tran Nguyen Lam Anh_14000
+TV010_Cao Tran Anh_28000
+CT001_Nguyen Thanh Thuy_1.2_5000000
+CT002_Nguyen Dinh Minh Khoi_2.26_3200000
+CT003_Tran Van Thanh_1.14_4000000
+QL001_Nguyen Huu An_1.3_14000000_2000000
